@@ -1,4 +1,4 @@
 Pagination
 ==========
 
-PHP Ajax Pagination
+PHP Ajax Pagination Class
