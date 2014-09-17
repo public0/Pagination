@@ -1,0 +1,10 @@
+<?php 
+class Pagination {
+
+	public function() {
+		echo 'a';
+	}
+
+}
+
+new Pagination();
